@@ -36,7 +36,7 @@ Every asset folder has a `preview/` subfolder with renders of what it contains, 
 | Scene | Site |
 |---|---|
 | `scenes/M1/M1.blend` | M1 — main AMF2 site on the farm (instrument field, AMF2 containers, farmstead, fields) |
-| `scenes/S1/S1.blend` | S1 — Muscatine Island Research Farm (ECORs in corn and soy, SEBS, center pivots, Louisa plant on the horizon) |
+| `scenes/S1/S1.blend` | S1 — Muscatine Island Research Farm (ECORs in corn and soy, SEBS on the corn ECOR tower, center pivots, Louisa plant on the horizon) |
 | `scenes/S2/S2.blend` | S2 — Washington Municipal Airport, KAWG (X/Ka SACR, C-SAPR2, AWOS, Challenger 850) |
 | `scenes/tests/instrument_lineup.blend` | Every instrument asset in a row |
 | `scenes/tests/m1_supercell.blend` | M1 with the CM1 100 m supercell (snapshot `c100_t25`) placed as in the storm renders |
